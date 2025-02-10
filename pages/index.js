@@ -67,7 +67,7 @@ export default function Home() {
 
       {response && (
         <div className={styles.response}>
-          <h2 className={styles.responseTitle}>Hasil Analisis:</h2>
+          <h2 className={styles.responseTitle}>Hasil Ai:</h2>
           <div className={styles.card}>
             <div
               dangerouslySetInnerHTML={{
